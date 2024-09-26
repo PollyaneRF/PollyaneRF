@@ -1,9 +1,13 @@
-Olá rede!!!
-Sejam muito bem vindos!!!
-Tenho muito orgulho de descrever quem sou para vocês, sou a Polly rsrs 😂
-Uma palavra que me define é garra! Sim, eu sou uma pessoa extremamente guerreira, batalhadora e venho de uma família humilde, aqui de Araxá MG ("Terra de Dona Beja", conhecida pelos doces e pão de queijo). 😅🥃🍫🍞🧀
-Aos poucos estou conseguindo com muito esforço e dedicação, degrau por degrau, trilhar o caminho de sucesso!!!
-Bom, estou graduando em Engenharia da Computação e sou Especialista em Projetos voltados para melhoria contínua em empresas, utilizando a metodologia ágil do Scrum, análises estatísticas no minitab e desenho de mapa de processo BPMN, intercalando com a faculdade estou fazendo o curso de Data Science do grupo DNC onde atuo como líder, sou Product Owner(P.O) de uma squad de ciência de dados, onde estamos aprendendo na prática a realizar um projeto de uma empresa real adotando as boas práticas do crisp-dm e machine learning. 
-Tenho uma paixão em adquirir conhecimento, sendo ele através de cursos pessoas experientes, ou especializações. Com isso, posso cada vez mais agregar conhecimento e crescimento à minha vida profissional e até mesmo pessoal. 
-Sou dedicada, proativa, organizada e focada em resultados, adoro desafios, gosto de trabalhar em equipe, também sou muito curiosa tenho perfil de liderança, e sempre ópito por ouvir, tenho facilidade em aprender e executar atividades. 
-Atualmente sou Analista de Sistemas de Negócios Júnior na Zema Financeira.
+Sejam muito bem-vindos(as)! 😊
+
+Sou Pollyane e tenho uma paixão por tecnologia que só cresce com o tempo. Minha jornada até aqui foi repleta de aprendizado e desafios empolgantes, sempre com um pé na inovação e outro na busca por soluções criativas. 🚀
+
+Tenho uma sólida formação em tecnologia e programação, mas o que me move é a curiosidade e a vontade de aprender sempre mais. Recentemente, decidi mergulhar de cabeça no mundo do desenvolvimento de software full stack, e venho complementando minha formação com cursos especializados que têm ampliado ainda mais meus horizontes.
+
+Minha experiência anterior me levou a abraçar metodologias ágeis como o Scrum, além de explorar a análise estatística e o mapeamento de processos com BPMN. Ah, e sou super entusiasta de tecnologias emergentes como AWS, infraestrutura e gestão de banco de dados! 💻
+
+Durante minha formação em Data Science pela DNC, tive a oportunidade de atuar como Product Owner (PO) em um projeto incrível para uma empresa internacional de investimentos. Usamos machine learning e o framework CRISP-DM para prever churn, e desenvolvi um dashboard em Power BI que fez toda a diferença na tomada de decisões estratégicas. 📊
+
+Agora, continuo buscando novos conhecimentos, me desafiando e, claro, me divertindo no processo! Amo trabalhar em equipe, liderar projetos e encontrar soluções inovadoras, sempre com foco em resultados de alto impacto. E o melhor de tudo? Fazer tudo isso com leveza e empatia. 🌟
+
+Quer saber mais? Dá uma olhadinha aqui no meu perfil, acesse minhas informações de contato, confira o app que fiz em Flutter e, claro, meu Linkedin! Vamos conectar!
